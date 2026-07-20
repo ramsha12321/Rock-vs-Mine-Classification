@@ -91,9 +91,6 @@ Rock-vs-Mine-Classification/
 ## 👩‍💻 Author
 
 **Ramsha Basharat**
-
-MPhil Statistics
-
 CEO – Stat Forge
 
 ---
